@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipo_minion">
+        <item>Feliz</item>
+        <item>Lector</item>
+        <item>Bailon</item>
+        <item>Camarera</item>
+        <item>Colgao</item>
+        <item>Simpatico</item>
+    </string-array>
+    <string-array name="nivel_Juego">
+        <item>Principiante</item>
+        <item>Amateur</item>
+        <item>Experto</item>
+    </string-array>
+</resources>

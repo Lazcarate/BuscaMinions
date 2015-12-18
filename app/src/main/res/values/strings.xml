@@ -1,3 +1,17 @@
-<resources>
-    <string name="app_name">Minions2</string>
-</resources>
+<resources>>
+        <string name="app_name">BuscaMinions</string>
+        <string name="nivelJuego">Nivel de Juego</string>
+        <string name="volver">Volver</string>
+        <string name="instruc">Instrucciones</string>
+        <string name="inicio">Comenzar</string>
+        <string name="setup">Configurar</string>
+        <string name="ok">OK</string>
+    <string name="Instrucciones">El juego es tipo buscaminas;
+                Cuando pulsas en una casilla sale un número que identifica cuántos minions hay
+                alrededor. Ten cuidado porque si pulsas en una casilla que tenga un minion
+                escondido, perderas. Si crees o tienes la certeza de que hay un minion, haz un click
+                largo sobre la casilla para señalarla. No hagas un click largo en una casilla donde
+                no hay un minion porque perderas. Ganas una vez hayas encontrado todos los minions.</string>
+        <string name="eligeMinion">Elige tu minion</string>
+    </resources>
+
